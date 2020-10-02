@@ -16,7 +16,7 @@ Goals:
   - Build and test multiple prediction models (KNN, Random Forest, XG Boost)
   - After expirimenting with different models XB Boost gave us the highest accuracy score so that is what we went with for our predictions.
 
-### Conclusions
+### Summary of Findings
  - We found that patients who recieve an SMS Messages show up almost 15% less often than those who recieve no text. If this is an automated SMS sent when the patient makes their appointment that could show how it does not lead to an increased percentage of patients showing up.
  - The neighborhood of Jardim Da Penha has one of the worst no show rates of any other neighborhood in the dataset.
  - We predicted that Monday and Tuesday will have the highest ammount of no show patients at around 5%.
