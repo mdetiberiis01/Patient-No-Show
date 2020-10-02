@@ -28,8 +28,8 @@ Goals:
 - We should adjust the SMS message system to message patients reminding them about their appointment instead of messaging them about the appointment they just made. This should lead to an added number of patients showing up to their appointments.
 
 ![](https://github.com/mdetiberiis01/Photos/blob/master/SMS_recieved.png)
-- We predict Monday will have 5.0% of the daily patients not show up to their appointment. Because of this we reccomend you overbook 2.5% of patients for Monday for standby appointments so they will see the doctor when a person misses their appointment.
-- Similarly Tuesday we predict 5.1% of patients not showing up for their appointments so we suggest you book 2.5% more patients on standby appointments.
+- We predict Monday will have 4.94% of the daily patients not show up to their appointment. Because of this we reccomend you overbook 2.5% of patients for Monday for standby appointments so they will see the doctor when a person misses their appointment.
+- Similarly Tuesday we predict 5.01% of patients not showing up for their appointments so we suggest you book 2.5% more patients on standby appointments.
 
 ![](https://github.com/mdetiberiis01/Photos/blob/master/DOW_show.png)
 
